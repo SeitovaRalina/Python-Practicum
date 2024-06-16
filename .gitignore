@@ -62,4 +62,5 @@ target/
 .ipynb_checkpoints/
 venv/
 
-.vscode
+.vscode/*
+*.code-workspace
